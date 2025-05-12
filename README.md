@@ -5,7 +5,7 @@
 - 📫 You can reach me by my:
 -   Facebook Acc: https://www.facebook.com/Ryvhae/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Likes to play Open World Survival games (mostly single player), Co-op games (PvE & PvP), Hack & Slash games, etc...
+- ⚡ Fun fact: Likes to play Open World Survival games (mostly single player), Co-op games (PvE), Hack & Slash games, etc...
 
 <!---
 Ryvhae/Ryvhae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
